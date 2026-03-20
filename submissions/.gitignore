@@ -1,0 +1,5 @@
+docs/
+doc/
+**/docs/
+**/doc/
+readmes
